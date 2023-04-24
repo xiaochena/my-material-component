@@ -1,0 +1,9 @@
+@import '~antd/es/image/style/index';
+
+.general-image {
+  display: flex;
+  &-image {
+    width: 200px;
+    height: 200px;
+  }
+}
